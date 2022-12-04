@@ -27,8 +27,7 @@ When this was extended to the next cell, the data range shifted also:
 ```
 =COUNTIFS(Kickstarter!G:G,"successful",Kickstarter!E:E,"<1000",Kickstarter!S:S,"plays")
 ```
-Once that was corrected by securing the date range with the f4 key, I was able to extend the function and modify it for its intended data set without error. With that challenge resolved, I then completed the analysis by creating a line graph displaying the percentages of success for each goal range. To view the dataset and tables, please reference [Kickstarter Challenge Workbook]("C:\Users\faria\OneDrive\Desktop\Analysis Projects\Crowdfunding Analysis\Kickstarter_Challenge.xlsx").
-
+Once that was corrected by securing the date range with the f4 key, I was able to extend the function and modify it for its intended data set without error. With that challenge resolved, I then completed the analysis by creating a line graph displaying the percentages of success for each goal range.
 ## Results
 ### Analysis of Outcomes Based on Launch Date
 Two conclusions can be drawn from the analysis of Theater Outcomes Based on Launch Date: 
