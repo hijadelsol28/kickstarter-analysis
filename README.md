@@ -7,11 +7,11 @@ The purpose of this data analysis is to know how different campaigns succeeded o
 ## Analysis and Challenges
 I began the analysis by isolating the years in which each campaign took place. In a new pivot table, I counted the number of successful, failed, and canceled campaigns of all categories based on the months in which they took place. This process may be confusing to some during the pivot table creation since when sorting by year, the table completes with fuller dates and more data that befuddles the results. 
 
-![Pivot Table Fields]("C:\Users\faria\OneDrive\Desktop\Analysis Projects\Crowdfunding Analysis\Outcomes_vs_LaunchDate_PivotFields.png")
+![Pivot Table Fields](Outcomes_vs_LaunchDate_PivotFields.png)
 
 This was easily remedied by filtering out unnecessary informaton and focusing on the months of the year in order to allow for clearer analyses.
 
-![Pivot Table Results]("C:\Users\faria\OneDrive\Desktop\Analysis Projects\Crowdfunding Analysis\Outcovers_vs_LD_PivotChart.png")
+![Pivot Table Results](Outcovers_vs_LD_PivotChart.png)
  
 A line chart was created from this pivot table to provide more clarity via visualization of the pattern of successful, failed, and canceled theater campaigns throughout the year.
 
